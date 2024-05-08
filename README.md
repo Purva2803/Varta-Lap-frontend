@@ -14,10 +14,10 @@ Frontend of real-time communication. (will be improved in future)
    npm install
    # or
    yarn install
-4. **Start the Project**:
-  ```bash
-  npm run dev
-  # or
-  yarn dev
+ 4. **Start the Project**:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
 
 
