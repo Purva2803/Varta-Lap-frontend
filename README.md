@@ -7,15 +7,17 @@ Frontend of real-time communication. (will be improved in future)
    ```bash
    git clone https://github.com/Purva2803/Varta-Lap-frontend.git
 2. **Setup the repository**:
-   
-  cd Varta-Lap-frontend
+   ```bash
+   cd Varta-Lap-frontend
 3. **Install dependencies**:
-  npm install
-  # or
-  yarn install
+   ```bash
+   npm install
+   # or
+   yarn install
 4. **Start the Project**:
- npm run dev
- # or
- yarn dev
+  ```bash
+  npm run dev
+  # or
+  yarn dev
 
 
